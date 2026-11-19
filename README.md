@@ -4,7 +4,7 @@ A Python application for checking text similarity.
 
 ## Project Interface
 
-![Program Interface](IMG-2026116-WA0001.jpg)p
+![Program Interface](/IMG-2026116-WA0001.jpg)p
 ## Features
 
 - Original Text Input
